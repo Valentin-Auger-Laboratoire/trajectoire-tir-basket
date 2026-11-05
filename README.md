@@ -2,6 +2,9 @@
 
 🇫🇷 [Français](#français) · 🇬🇧 [English](#english)
 
+**▶ Démo web / Web demo :** https://valentin-auger-laboratoire.github.io/portfolio/demos/tir-basket/
+Trajectoire du tir, angle, vitesse et Cₓ réglables, trois modèles de frottement, zone de réussite et mes points mesurés. / Shot trajectory, adjustable angle, speed and Cₓ, three drag models, success zone and my measured points.
+
 ![Points mesurés et modèles calés](images/calage-points.png)
 
 ---
